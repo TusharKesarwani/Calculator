@@ -7,21 +7,15 @@
     box-sizing: border-box;
 }
 header{
-    /* background-color: black; */
     color: azure;
-    /* height: 5vw;
-    width: 100vw; */
 }
 .header_title{
     text-align: center;
     font-size:xxx-large;
-    /* margin-top: 40px; */
 }
 body{
     display:block;
-    /* background-color: black; */
     background-image: url("https://media.istockphoto.com/vectors/abstract-vector-background-for-use-in-design-vector-id183954960?k=20&m=183954960&s=612x612&w=0&h=n_Z933ml0u6ZKZJ3KOxKl2tSqNv_N9L1vheVVdBX_5Q=") ;
-    color:white;
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
 }
@@ -42,7 +36,7 @@ body{
     margin-top: 80px;
 }
 #screen {
-    margin: 1px auto;
+    margin: 4px auto;
     width: 100%;
     max-width: 400px;
     height: 4rem;
@@ -70,14 +64,14 @@ body{
 }
 
 #input {
-    font-size: 25px;
+    font-size: 20px;
     padding-top: 16px;
     margin-top: -13px;
     word-spacing: 0.07em;
 }
 
 #result {
-    font-size: 50px;
+    font-size: 25px;
 }
 
 #memory {
@@ -92,8 +86,6 @@ button, .bottom-buttons {
     height: 3rem;
     border: none;
     border-radius: 10px;
-    /* margin:2px; */
-    /* background-color: #3b4ce3; */
 }
 
 button:hover, .bottom-buttons {
